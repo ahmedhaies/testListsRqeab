@@ -1,0 +1,1 @@
+^.*playruneterra\.com.*$
