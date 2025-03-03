@@ -1,1 +1,2 @@
 ^.*yango\.com.*$
+^.*play\.yango\.com.*$
