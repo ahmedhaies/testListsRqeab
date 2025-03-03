@@ -1,1 +1,4 @@
+^.*x\.com.*$
 ^.*twitter\.com.*$
+^.*twimg\.com.*$
+^.*cftls\.t\.co.*$

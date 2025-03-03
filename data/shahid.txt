@@ -1,1 +1,1 @@
-^.*shahid\.mbc\.net.*$
+^.*shahid\.net.*$

@@ -1,1 +1,4 @@
 ^.*youtube\.com.*$
+^.*ytimg\.com.*$
+^.*youtubei\.googleapis\.com.*$
+^.*lh3\.googleusercontent\.com.*$

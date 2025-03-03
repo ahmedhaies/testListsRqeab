@@ -1,1 +1,4 @@
+^.*twitchcdn\.net.*$
+^.*ttvnw\.net.*$
 ^.*twitch\.tv.*$
+^.*jtvnw\.net.*$

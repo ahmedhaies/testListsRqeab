@@ -1,1 +1,2 @@
 ^.*snapchat\.com.*$
+^.*sc\-cdn\.net.*$

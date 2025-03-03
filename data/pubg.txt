@@ -1,0 +1,2 @@
+^.*igamecj\.com.*$
+^.*proximabeta\.com.*$

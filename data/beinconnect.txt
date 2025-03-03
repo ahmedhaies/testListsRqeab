@@ -1,1 +1,3 @@
-^.*connect\.bein\.com.*$
+^.*bein\.com.*$
+^.*storagebeincom\-b4dvftgkaebcayar\.z01\.azurefd\.net.*$
+^.*bein\-mena\-production\.eu\-west\-2\.tuc\.red.*$

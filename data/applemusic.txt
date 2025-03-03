@@ -1,1 +1,2 @@
-^.*music\.apple\.com.*$
+^.*xp\.apple\.com.*$
+^.*mzstatic\.com.*$

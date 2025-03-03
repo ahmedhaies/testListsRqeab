@@ -1,3 +1,2 @@
-^.*facebook\.com.*$
 ^.*fbcdn\.net.*$
-^.*fbpigeon\.com.*$
+^.*facebook\.com.*$
