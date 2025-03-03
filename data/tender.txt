@@ -1,1 +1,2 @@
 ^.*gotinder\.com.*$
+^.*tinder\.com.*$
