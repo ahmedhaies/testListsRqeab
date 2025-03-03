@@ -1,2 +1,3 @@
 ^.*codm\.activision\.com.*$
 ^.*codmwest\.com.*$
+^.*callofduty\.com.*$
