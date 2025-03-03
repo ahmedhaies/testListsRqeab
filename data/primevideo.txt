@@ -1,3 +1,4 @@
 ^.*amazonvideo\.com.*$
 ^.*aiv\-delivery\.net.*$
 ^.*prime\.amazon\.com.*$
+^.*primevideo\.com.*$
