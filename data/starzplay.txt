@@ -1,1 +1,2 @@
 ^.*playco\.com.*$
+^.*starzplay\.com.*$
