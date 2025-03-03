@@ -1,3 +1,4 @@
 ^.*pvp\.net.*$
 ^.*riot\-games\.threatcast\.guardsquare\.com.*$
 ^.*wildrift\-na\.akamaized\.net.*$
+^.*leagueoflegends\.com.*$
