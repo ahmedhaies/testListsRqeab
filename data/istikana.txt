@@ -1,1 +1,2 @@
 ^.*istikanaapis\.com.*$
+^.*istikana\.com.*$
