@@ -3,3 +3,4 @@
 ^.*googlevideo\.com.*$
 ^.*youtubei\.googleapis\.com.*$
 ^.*lh3\.googleusercontent\.com.*$
+^.*ggpht\.com.*$
