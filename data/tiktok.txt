@@ -2,4 +2,4 @@
 ^.*tiktokcdn\.com.*$
 ^.*tiktokcdn\-eu\.com.*$
 ^.*tiktok\.com.*$
-^.*tiktokcdn-us\.com.*$
+^.*tiktokcdn\.com.*$
