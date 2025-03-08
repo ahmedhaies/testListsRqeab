@@ -3,3 +3,6 @@
 ^.*tiktokcdn\-eu\.com.*$
 ^.*tiktok\.com.*$
 ^.*tiktokcdn\-us\.com.*$
+^.*ibyteimg\.com.*$
+^.*tiktokv\.eu.*$
+^.*tiktok\.tv.*$
