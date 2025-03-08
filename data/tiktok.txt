@@ -6,3 +6,5 @@
 ^.*ibyteimg\.com.*$
 ^.*tiktokv\.eu.*$
 ^.*tiktok\.tv.*$
+^.*snssdk\.com.*$
+^.*byteoversea\.com.*$
