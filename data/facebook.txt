@@ -2,3 +2,4 @@
 ^.*facebook\.com.*$
 ^.*fbpigeon\.com.*$
 ^.*instagram\.com.*$
+^.*cdninstagram\.com.*$
