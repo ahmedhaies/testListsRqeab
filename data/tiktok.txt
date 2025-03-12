@@ -8,3 +8,5 @@
 ^.*tiktok\.tv.*$
 ^.*snssdk\.com.*$
 ^.*byteoversea\.com.*$
+^.*ibytedtos\.com.*$
+^.*ibyteimg\.com.*$
