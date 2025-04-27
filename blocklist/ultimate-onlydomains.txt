@@ -2,8 +2,23 @@
 ads.facebook.com
 an.facebook.com
 analytics.facebook.com
-metric.beta.facebook.com
-badge.facebook.com
 b-graph.facebook.com
+b-graph-fallback.facebook.com
+badge.facebook.com
+metric.beta.facebook.com
+connect.facebook.com
+connect.facebook.net
+dns.facebook.com
+error.facebook.com
+metrics.fbjs.facebook.com
+graph.facebook.com
 graph-fallback.facebook.com
+metric.internmc.facebook.com
+mqtt-mini.facebook.com
+pixel.facebook.com
+spotify.facebook.com
+tr.facebook.com
+web.facebook.com
+web-fallback.facebook.com
+z-m-graph.facebook.com
 # Don't remove this line ya abo elkhair
