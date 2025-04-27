@@ -1,6 +1,8 @@
+# Every line will be removed from the original file with the exact result, with full line
 ads.facebook.com
 an.facebook.com
 analytics.facebook.com
 metric.beta.facebook.com
 badge.facebook.com
-#ggg
+b-graph.facebook.com
+# Don't remove this line ya abo elkhair
