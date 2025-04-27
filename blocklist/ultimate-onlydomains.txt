@@ -5,4 +5,5 @@ analytics.facebook.com
 metric.beta.facebook.com
 badge.facebook.com
 b-graph.facebook.com
+graph-fallback.facebook.com
 # Don't remove this line ya abo elkhair
