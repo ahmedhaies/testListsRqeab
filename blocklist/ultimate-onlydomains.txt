@@ -2,3 +2,4 @@ ads.facebook.com
 an.facebook.com
 analytics.facebook.com
 metric.beta.facebook.com
+badge.facebook.com
