@@ -1,4 +1,4 @@
-^.*x\.com.*$
+^(?:[a-zA-Z0-9-]+\.)*x\.com$
 ^.*twitter\.com.*$
 ^.*twimg\.com.*$
 ^.*cftls\.t\.co.*$
