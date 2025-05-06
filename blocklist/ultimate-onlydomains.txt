@@ -5,9 +5,13 @@ cdn.syndication.twitter.com
 r.twimg.com
 ton.twimg.com
 #instagram
+instagram.com
 z-p4.graph.instagram.com
 z-p42.graph.instagram.com
 #facebook
+facebook.com
+fbcdn.com
+graph.fbpigeon.com
 b-graph-fallback.facebook.com
 b-graph.facebook.com
 connect.facebook.com
