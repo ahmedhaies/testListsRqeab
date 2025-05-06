@@ -186,5 +186,8 @@ omnicollector.snapchat.com
 pro-insights.snapchat.com
 pro-stories.snapchat.com
 rtam-collector.snapchat.com
+#roblox
+roblox.com
+
 
 # Don't remove this line ya abo elkhair
