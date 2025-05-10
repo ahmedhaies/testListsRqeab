@@ -1,7 +1,10 @@
 ^.*tiktokv\.com.*$
+^.*tiktokv\.us.*$
 ^.*tiktokcdn\.com.*$
 ^.*tiktokcdn\-eu\.com.*$
 ^.*tiktok\.com.*$
+^.*tiktokw\.eu.*$
+^.*tiktokw\.us.*$
 ^.*tiktokcdn\-us\.com.*$
 ^.*ibyteimg\.com.*$
 ^.*tiktokv\.eu.*$
@@ -9,4 +12,3 @@
 ^.*snssdk\.com.*$
 ^.*byteoversea\.com.*$
 ^.*ibytedtos\.com.*$
-^.*ibyteimg\.com.*$
