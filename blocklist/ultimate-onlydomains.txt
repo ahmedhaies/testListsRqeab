@@ -1,9 +1,15 @@
 # Every line will be removed from the original file with the exact result, with full line
 #twitter
+x.com
 cards.twitter.com
+crashlytics.twitter.com
+scribe.twitter.com
+syndication.twitter.com
 cdn.syndication.twitter.com
 r.twimg.com
+syndication-o.twimg.com
 ton.twimg.com
+cftls.t.co
 #instagram & facebook
 badges.instagram.com
 graph.instagram.com
@@ -57,6 +63,26 @@ traffic-nts-ip-assoc.xz.fbcdn.net
 fbcdn2.com
 www.fbcdn2.com
 graph.fbpigeon.com
+#snapchat
+snapchat.com
+ad-center.snapchat.com
+ads.snapchat.com
+adsapi.snapchat.com
+adsapi2.snapchat.com
+app-analytics.snapchat.com
+app-analytics-dev.snapchat.com
+app-analytics-v2.snapchat.com
+events.snapchat.com
+intg.snapchat.com
+omnicollector.snapchat.com
+pro-insights.snapchat.com
+pro-stories.snapchat.com
+rtam-collector.snapchat.com
+analytics.anticloudappirus.snappublisher.snapchat.com
+events.snappublisher.snapchat.com
+tr.snapchat.com
+tr6.snapchat.com
+ads-interfaces.sc-cdn.net
 #google
 www-googletagmanager.l.google.com
 googletagmanager.com
