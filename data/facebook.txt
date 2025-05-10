@@ -1,5 +1,7 @@
 ^.*fbcdn\.net.*$
 ^.*facebook\.com.*$
 ^.*fbpigeon\.com.*$
+^(?:[a-zA-Z0-9-]+\.)*fbcdn2\.com$
 ^.*instagram\.com.*$
 ^.*cdninstagram\.com.*$
+
